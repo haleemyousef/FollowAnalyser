@@ -36,9 +36,9 @@ Currently this tool only supports Instagram and can really benefit from adding T
 
 See `contributing.txt` for ways to get started, and please contact me if you have any questions.
 
-## Contacts:
-<ul>
-<li><b>Author </b>: Haleem Yousef </li>
-<li><b>Email  &nbsp; &nbsp;</b>: haleemyousef01@gmail.com </li>
-<li><b>GitHub </b>: https://github.com/haleemyousef </li>
+## Support:
+
+- Author : Haleem Yousef 
+- E-mail  &nbsp;</b>: haleemyousef01@gmail.com 
+- GitHub : https://github.com/haleemyousef 
 </ul>
