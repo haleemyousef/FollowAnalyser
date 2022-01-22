@@ -1,0 +1,17 @@
+# Keeping track of ideas...
+
+# Add a try-except for import commands.******************************************************************************Done Deprecated
+# Is Logging in even necessary? *************************************************************************************YES
+# Numbering usernames.***********************************************************************************************Done
+# logo with my name.*************************************************************************************************Done
+# Mkdir with the username and write the files in there.**************************************************************Done
+# Check if destination HTML files exist already, if they do, erase their contents (overwrite).***********************Done Deprecated
+# Make the HTML page nicer and cleaner, add pfps.********************************************************************Done
+# Time every step of the process.************************************************************************************Done
+# Add a progress bar to fetch_pfps().********************************************************************************Done
+# Improve download speed of profile pictures using asynchronous programming.
+# Add support for twitter.
+# Add spinners to each step.
+# Hide error "JSON Query to profile_name/feed/: HTTP error code 500/560."
+# Add dynamic visuals to the HTML pages using Javascript.
+# Create a fresh Instagram account to be used in extracting follow lists (public accounts only feature).
