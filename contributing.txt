@@ -13,5 +13,5 @@
 # Add support for twitter.
 # Add spinners to each step.
 # Hide error "JSON Query to profile_name/feed/: HTTP error code 500/560."
-# Add dynamic visuals to the HTML pages using Javascript.
+# Add animations to the HTML pages using Javascript.
 # Create a fresh Instagram account to be used in extracting follow lists (public accounts only feature).
