@@ -10,7 +10,7 @@ FollowAnalyser is a python tool that categorises your list of followers/followin
 This project is under [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) and was built using InstaLoader module which is completely safe and open-source. Please don't forget to support them (and me!) on GitHub.
 
 ## VERY IMPORTANT NOTE
-Due to Instagram's restrictions on anonymous browsing, <b>everyone is requried to login</b> before accessing the list of followers/followings of any account <b>**even public accounts**</b> on the platform (don't believe me! go try it) <br />
+Due to Instagram's restrictions on anonymous browsing, <b>everyone is requried to login</b> before accessing the list of followers/followings of any account <b>**(even public accounts)**</b> on the platform (don't believe me, go try it!) <br />
 
 Therefore, this tool will ask for your username and password, and if you are unable to verify the source code yourself and you feel uncomfortable giving away your credentials (can't blame ya) then.. don't use it? T_T
 
