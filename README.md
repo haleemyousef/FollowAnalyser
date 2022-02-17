@@ -19,7 +19,7 @@ Therefore, this tool will ask for your username and password. If you are unable 
 - Ease-of-use
 - Every process is timed
 - Interactive HTML pages
-- Cross platform
+- Cross-platform support
 
 ## Dependencies:
 
